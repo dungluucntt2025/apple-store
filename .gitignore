@@ -1,0 +1,11 @@
+AppleStore/.vs/
+AppleStore/Apple.BusinessLogic/obj/
+AppleStore/Apple.Common/obj/
+AppleStore/Apple.DataAccess/bin/
+AppleStore/Apple.DataAccess/obj/
+AppleStore/Apple.Operational/bin/
+AppleStore/Apple.Operational/.vs/
+*/obj/
+**/obj/
+**/bin/
+**.csproj.user
