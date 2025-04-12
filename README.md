@@ -1,7 +1,7 @@
 -# AppleStore - Hướng dẫn cài đặt và sử dụng
 -
 -## Giới thiệu
--AppleStore là một dự án web application được phát triển bằng .NET Framework, sử dụng mô hình nhiều lớp (multi-layer architecture).
+-AppleStore là một dự án web application được phát triển bằng ASP.NET, sử dụng mô hình nhiều lớp (multi-layer architecture).
 -
 -## Yêu cầu hệ thống
 -- Microsoft Visual Studio 2010 trở lên
